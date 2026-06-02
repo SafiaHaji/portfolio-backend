@@ -17,7 +17,7 @@ const portfolioData = {
   skills: [
     "Data Analysis & Programming (R)",
     "Cloud Deployments & Infrastructure",
-    "Machine Learning & Explainable AI (SHAP/LIME)",
+    "Machine Learning",
     "API Development"
   ],
   qualifications: [
